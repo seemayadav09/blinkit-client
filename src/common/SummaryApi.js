@@ -1,4 +1,4 @@
-export const baseURL = 'https://blinkit-server-five.vercel.app';
+export const baseURL = 'https://blinkit-server-kbby.vercel.app';
 
 const SummaryApi = {
     register : {
