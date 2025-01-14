@@ -1,4 +1,4 @@
-export const baseURL = 'http://localhost:5000';
+export const baseURL = 'https://blinkit-server-i77e4ikbn-seema-yadavs-projects-bfd0a1f8.vercel.app/';
 
 const SummaryApi = {
     register : {
